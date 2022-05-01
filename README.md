@@ -1,4 +1,5 @@
 # NuxtJS Portfolio Website
+Preview : https://galihsptr.id
 
 ## Build Setup
 
