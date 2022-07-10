@@ -5,14 +5,17 @@ Preview : https://galihsptr.id
 
 ```bash
 # install dependencies
-$ pnpm i
+$ npm i
+
 # serve with hot reload at localhost:3000
-$ pnpm run dev
+$ npm run dev
+
 # build for production and launch server
-$ pnpm build
-$ pnpm start
+$ npm build
+$ npm start
+
 # generate static project
-$ pnpm generate
+$ npm generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
